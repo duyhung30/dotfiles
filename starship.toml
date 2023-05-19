@@ -1,0 +1,201 @@
+# [character]
+# success_symbol = '[➜](bold green) '
+# error_symbol = '[✗](bold red) '
+#
+# [aws]
+# symbol = "  "
+#
+# [conda]
+# symbol = " "
+#
+# [dart]
+# symbol = " "
+# format = "via [$symbol]($style)"
+#
+# [directory]
+# read_only = " "
+# truncation_length = 1
+#
+# [docker_context]
+# symbol = " "
+#
+# [elixir]
+# symbol = " "
+# format = 'via [$symbol]($style)'
+#
+# [elm]
+# symbol = " "
+#
+# [git_branch]
+# symbol = " "
+#
+# [golang]
+# symbol = " "
+# format = 'via [$symbol]($style)'
+#
+# [hg_branch]
+# symbol = " "
+#
+# [java]
+# symbol = " "
+# format = 'via [$symbol]($style)'
+#
+# [julia]
+# symbol = " "
+#
+# [memory_usage]
+# symbol = " "
+#
+# [nim]
+# symbol = " "
+#
+# [nix_shell]
+# symbol = " "
+#
+# [nodejs]
+# symbol = " "
+# format = 'via [$symbol]($style)'
+#
+# [package]
+# symbol = " "
+#
+# [perl]
+# symbol = " "
+#
+# [php]
+# symbol = " "
+#
+# [python]
+# symbol = " "
+# format = 'via [$symbol]($style)'
+#
+# [ruby]
+# symbol = " "
+#
+# [rust]
+# format = 'via [$symbol]($style)'
+#
+# [scala]
+# symbol = " "
+#
+# [shlvl]
+# symbol = " "
+#
+# [swift]
+# symbol = "ﯣ "
+# format = 'via [$symbol]($style)'
+#
+# [c]
+# symbol = " "
+#
+# [git_status]
+# disabled = true
+#
+
+[character]
+success_symbol = "[](white)"
+error_symbol = "[](red)"
+vicmd_symbol = "[](green)"
+
+[directory]
+style = "blue bold"
+
+[username]
+disabled = true
+
+[hostname]
+disabled = true
+
+[git_commit]
+disabled = true
+
+[git_state]
+disabled = true
+
+[git_metrics]
+disabled = true
+
+[git_status]
+disabled = true
+
+[aws]
+symbol = "  "
+
+[conda]
+symbol = " "
+
+[dart]
+symbol = " "
+format = "via [$symbol]($style)"
+
+[docker_context]
+symbol = " "
+
+[elixir]
+symbol = " "
+format = 'via [$symbol]($style)'
+
+[elm]
+symbol = " "
+
+[git_branch]
+symbol = " "
+
+[golang]
+symbol = " "
+format = 'via [$symbol]($style)'
+
+[hg_branch]
+symbol = " "
+
+[java]
+symbol = " "
+format = 'via [$symbol]($style)'
+
+[julia]
+symbol = " "
+
+[memory_usage]
+symbol = " "
+
+[nim]
+symbol = " "
+
+[nix_shell]
+symbol = " "
+
+[nodejs]
+symbol = " "
+format = 'via [$symbol]($style)'
+
+[package]
+symbol = " "
+
+[perl]
+symbol = " "
+
+[php]
+symbol = " "
+
+[python]
+symbol = " "
+format = 'via [$symbol]($style)'
+
+[ruby]
+symbol = " "
+
+[rust]
+format = 'via [$symbol]($style)'
+
+[scala]
+symbol = " "
+
+[shlvl]
+symbol = " "
+
+[swift]
+symbol = "ﯣ "
+format = 'via [$symbol]($style)'
+
+[c]
+symbol = " "
